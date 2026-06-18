@@ -9,7 +9,7 @@ Eine vollständige deutsche Übersetzung (100 %) für **Software Inc**.
 [![Download](https://img.shields.io/badge/Download-Deutsch--beta--1.8.12.zip-2ea44f?style=for-the-badge&logo=download&logoColor=white)](https://github.com/albeardpriv/software-inc-deutsch/releases/download/beta-1.8.12/Deutsch-beta-1.8.12.zip)
 
 1. ZIP entpacken (enthält direkt einen Ordner `Deutsch`) und nach `<Software-Inc-Installationsordner>/Localization/` kopieren
-2. Spiel starten und im Sprachmenü **Deutsch/German** auswählen
+2. Spiel starten, im Hauptmenü oben links auf den Sprach-Button (das bunte Kreis-Symbol) klicken und im Fenster **Übersetzungen** die Sprache **Deutsch/German** auswählen
 
 > Den grünen **„Code › Download ZIP"**-Button bitte **nicht** verwenden – der erzeugt einen falsch benannten Ordner. Die Dateien liegen im **TyD-Format** (das vom Spiel bevorzugte Format).
 
