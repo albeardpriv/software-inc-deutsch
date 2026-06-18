@@ -1,0 +1,4 @@
+# Lokalisierungsdateien mit festen LF-Zeilenenden (vom Spiel-Parser erwartet/erprobt)
+*.tyd text eol=lf
+*.txt text eol=lf
+*.md  text eol=lf
