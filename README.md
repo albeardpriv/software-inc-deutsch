@@ -2,6 +2,8 @@
 
 Eine vollständige deutsche Übersetzung (100 %) für das Aufbau-/Wirtschaftsspiel **Software Inc**.
 
+**Spielversion:** Beta 1.8.12
+
 ## Inhalt
 
 | Datei | Inhalt |
