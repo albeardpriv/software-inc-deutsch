@@ -4,9 +4,9 @@ Eine vollständige deutsche Übersetzung (100 %) für **Software Inc**.
 
 **Spielversion:** Beta 1.8.12
 
-## ⬇️ Download & Installation
+## Download & Installation
 
-**[➡️ Deutsch-beta-1.8.12.zip herunterladen](https://github.com/albeardpriv/software-inc-deutsch/releases/download/beta-1.8.12/Deutsch-beta-1.8.12.zip)**
+**[⬇️ Deutsch-beta-1.8.12.zip herunterladen](https://github.com/albeardpriv/software-inc-deutsch/releases/download/beta-1.8.12/Deutsch-beta-1.8.12.zip)**
 
 1. ZIP entpacken (enthält direkt einen Ordner `Deutsch`) und nach `<Software-Inc-Installationsordner>/Localization/` kopieren
 2. Spiel starten und im Sprachmenü **Deutsch/German** auswählen
