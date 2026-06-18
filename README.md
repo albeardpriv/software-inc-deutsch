@@ -1,6 +1,6 @@
 # Software Inc – Deutsche Lokalisierung
 
-Eine vollständige deutsche Übersetzung (100 %) für das Aufbau-/Wirtschaftsspiel **Software Inc**.
+Eine vollständige deutsche Übersetzung (100 %) für **Software Inc**.
 
 **Spielversion:** Beta 1.8.12
 
