@@ -4,6 +4,14 @@ Eine vollständige deutsche Übersetzung (100 %) für das Aufbau-/Wirtschaftsspi
 
 **Spielversion:** Beta 1.8.12
 
+## ⬇️ Download
+
+**[➡️ Deutsch-beta-1.8.12.zip herunterladen](https://github.com/albeardpriv/software-inc-deutsch/releases/download/beta-1.8.12/Deutsch-beta-1.8.12.zip)**
+
+Oder immer die [**neueste Version**](https://github.com/albeardpriv/software-inc-deutsch/releases/latest) holen.
+
+> Die ZIP enthält direkt einen Ordner `Deutsch` – einfach entpacken und nach `Localization/` kopieren (siehe [Installation](#installation)). Den grünen **„Code › Download ZIP"**-Button bitte **nicht** verwenden, der erzeugt einen falsch benannten Ordner.
+
 ## Inhalt
 
 | Datei | Inhalt |
