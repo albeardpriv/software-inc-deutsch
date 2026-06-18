@@ -4,13 +4,14 @@ Eine vollständige deutsche Übersetzung (100 %) für das Aufbau-/Wirtschaftsspi
 
 **Spielversion:** Beta 1.8.12
 
-## ⬇️ Download
+## ⬇️ Download & Installation
 
-**[➡️ Deutsch-beta-1.8.12.zip herunterladen](https://github.com/albeardpriv/software-inc-deutsch/releases/download/beta-1.8.12/Deutsch-beta-1.8.12.zip)**
+**[➡️ Deutsch-beta-1.8.12.zip herunterladen](https://github.com/albeardpriv/software-inc-deutsch/releases/download/beta-1.8.12/Deutsch-beta-1.8.12.zip)** &nbsp;·&nbsp; oder immer die [neueste Version](https://github.com/albeardpriv/software-inc-deutsch/releases/latest)
 
-Oder immer die [**neueste Version**](https://github.com/albeardpriv/software-inc-deutsch/releases/latest) holen.
+1. ZIP entpacken (enthält direkt einen Ordner `Deutsch`) und nach `<Software-Inc-Installationsordner>/Localization/` kopieren
+2. Spiel starten und im Sprachmenü **Deutsch/German** auswählen
 
-> Die ZIP enthält direkt einen Ordner `Deutsch` – einfach entpacken und nach `Localization/` kopieren (siehe [Installation](#installation)). Den grünen **„Code › Download ZIP"**-Button bitte **nicht** verwenden, der erzeugt einen falsch benannten Ordner.
+> Den grünen **„Code › Download ZIP"**-Button bitte **nicht** verwenden – der erzeugt einen falsch benannten Ordner. Die Dateien liegen im **TyD-Format** (das vom Spiel bevorzugte Format).
 
 ## Inhalt
 
@@ -31,16 +32,6 @@ Oder immer die [**neueste Version**](https://github.com/albeardpriv/software-inc
 - Durchgängig informelle Anrede („du")
 - Branchenübliche Anglizismen beibehalten, wo natürlich (Feature, Build, Release, Server, Bug, Update, Patch, Deal, IP, Publisher, Dev …)
 - Begriffe konsistent zu den UI-Elementen (z. B. hervorgehobene Tutorial-Begriffe entsprechen den echten Button-/Fensternamen)
-
-## Installation
-
-1. Diesen Ordner als `Deutsch` in das Lokalisierungs-Verzeichnis des Spiels kopieren:
-   ```
-   <Software-Inc-Installationsordner>/Localization/Deutsch/
-   ```
-2. Spiel starten und im Sprachmenü **Deutsch/German** auswählen.
-
-> Die Dateien liegen im **TyD-Format** (das vom Spiel bevorzugte Format).
 
 ## Bekannte Einschränkungen
 
